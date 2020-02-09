@@ -1,0 +1,12 @@
+,Column Labels,,,,,
+,Chairs & Chairmats,,Tables,,Total Sum of Order Quantity,Total Average of Unit Price
+Row Labels,Sum of Order Quantity,Average of Unit Price,Sum of Order Quantity,Average of Unit Price,,
+Atlantic,1111,184.23,1172,243.78,2283,215.03
+Northwest Territories,583,199.91,268,223.99,851,207.93
+Nunavut,144,259.02,11,71.37,155,227.74
+Ontario,2292,181.78,1950,216.13,4242,197.22
+Prarie,1859,165.46,1746,217.04,3605,190.01
+Quebec,842,219.47,1376,217.92,2218,218.57
+West,2428,174.40,1857,232.66,4285,199.82
+Yukon,331,197.74,815,197.47,1146,197.54
+Grand Total,9590,183.14,9195,221.39,18785,201.62
